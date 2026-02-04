@@ -1,1 +1,2 @@
-print("Pierwszy plik utworzony przez www")
+def test():
+    print("Pierwszy plik utworzony przez www")
